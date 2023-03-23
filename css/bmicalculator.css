@@ -1,0 +1,126 @@
+div{
+    padding: 5px 5px;
+}
+/* #header{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 50%;
+    height: 50%;
+} */
+.card{
+    background-color: lightgray;
+    text-align: center;
+    border-radius: 5%;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    display: block;
+}
+.card-2{
+    background-color: lightgray;
+    border-radius: 5%;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    display: block;
+}
+.hitung{
+    background-color: lightblue;
+}
+.reset{
+    background-color: white;
+}
+.form-group{
+    display: flex;
+    flex-direction: column;
+}
+label{
+    font-weight: bold;
+}
+/* #split-left{
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+    left: 0;
+  }
+#split-right {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+    right: 0;
+  } */
+#coba{
+    display: flex;
+    flex-direction: row;
+}
+/* .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  } */
+p{
+    text-align: justify;
+}
+.row {
+    display: flex;
+}
+.column {
+    flex: 50%;
+}
+img{
+    height: 60px;
+    width: 180px;
+}
+button{
+    border-radius: 5px;
+}
+.konsultasi{
+    background-color: lightblue;
+}
+.registrasi{
+    background-color: lightblue;
+}
+.button-2{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
+.download{
+    background-color: lightblue;
+}
+#show{
+    display: none;
+}
+#show-1{
+    display: none;
+}
+#show-2{
+    display: none;
+}
+#normal{
+    display: none;
+}
+#lebih{
+    display: none;
+}
+#kurang{
+    display: none;
+}
+#obes{
+    display: none;
+}
+.keterangan{
+    text-align: center;
+}
