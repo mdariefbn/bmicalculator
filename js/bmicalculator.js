@@ -20,7 +20,7 @@ hitung.addEventListener("click", ()=>{
     tinggibadan = tinggi.value/100;
     beratbadan = berat.value;
     BMI = beratbadan/(tinggibadan**2); 
-    hasil2.innerText = BMI.toFixed(2);
+    hasil2.innerText = BMI.toFixed(1);
 
     if(BMI < 18.5){
         hasil1.innerText = "Berat Badan Kurang"; 
